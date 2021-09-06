@@ -1,0 +1,28 @@
+@media only screen and (max-width:750px){
+    nav, .contact{display: none;}
+    .container{padding:0 20px;}
+    .bar{display: block; cursor: pointer;}
+    .empower{width: 50%;}
+    .go{display: flex; flex-direction: column;}
+    .go-right img{width: 70%; margin-bottom: 100px;}
+    .mid-box{
+        width:100%;
+    }
+    .lum{
+        width:100%;
+        display: flex; flex-direction: column;
+    }
+    .lets{
+        width: 50%;
+    }
+    .looking img{
+        width: 100%;
+        height: 300px;
+    }
+    .look-text{
+        padding:20px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
